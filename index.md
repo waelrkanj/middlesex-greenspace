@@ -1,4 +1,4 @@
-## Middlesex County Open Space Accessibility
+## Middlesex County Green and Open Space Accessibility
 
 The research is clear that access to open and green space plays <a href="https://cnr.ncsu.edu/news/2022/04/parks-green-spaces-improve-health"> a key role in a person's overall wellbeing.</a> New Jersey has a wealth of open and green spaces available for residents to spend time in and engage with. But access to these sites isn't distributed equally across the state and throughout municipalities. Some places and some people can more easily access the state's green spaces. These maps explore that dynamic for municipalities in Middlesex County, located in Central New Jersey (yes, it exists!)
 
