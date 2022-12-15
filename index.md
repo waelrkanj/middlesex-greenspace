@@ -6,7 +6,7 @@ The data in the interactive map below is based on accessibility in two dimension
 
 In addition to the level of accessibility, there is also the question of how access to green space varies across sociodemographic factors. The two maps below show green spaces throughout the county in relation to two Census variables mapped by Block Groups - income and race. Most of the county's larger green spaces are spread throughout the southern part of the county, where the population tends to be whiter and higher-income. While residents in the denser, lower-income areas in the north might live close to open spaces, those also tend to be smaller parks, suggesting that each municipality needs to do their own work to ensure equitable access to green space for their residents. 
 
-<iframe src="middlesex_openspace.html" height="855" width="95%"></iframe>
+<iframe src="middlesex_openspace.html" height="855" width="100%"></iframe>
 
 
 
