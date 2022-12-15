@@ -24,4 +24,4 @@ The data in the interactive map below is based on accessibility in two dimension
 
 <p style="color:grey;">Sources: OpenStreetMap, NJGIN, NJDEP, American Community Survey 2019 5-Year.</p>
 
-Map created by <a href="mailto:waelkanj@gmail.com">Wael Kanj</a>, 2022. 
+Map created by <a href="mailto:waelkanj@gmail.com">Wael Kanj</a> for 34:970:651 Command-Line GIS, Edward J. Bloustein School of Planning and Public Policy, Rutgers University, Fall 2022. 
