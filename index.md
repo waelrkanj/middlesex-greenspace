@@ -7,8 +7,8 @@ The first maps explore the question of how access to green space varies across s
 
 
 <div class="container"> 
-    <img src="middlesex_minority.png" width = "400" >
-    <img src="middlesex_low_income.png" width = "400" > 
+    <img src="middlesex_minority.png" width = "500" >
+    <img src="middlesex_low_income.png" width = "500" > 
 </div> 
 
 
